@@ -1,2 +1,4 @@
 1- abc ,F ,manager
 2- def, M, asst manager
+3 - cho, M, divisional clerk
+4 - qwe, F, div clerk
