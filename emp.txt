@@ -1,4 +1,4 @@
-1- abc ,F ,manager, level 10
+1- abc ,F ,manager, level 10, no HRA
 2- def, M, asst manager
 3 - cho, M, divisional clerk
 4 - qwe, F, div clerk
